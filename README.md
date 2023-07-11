@@ -18,3 +18,12 @@ This is an example Python script for scraping files from a website.
 
 6. Run the script by executing the following command:
 
+## License
+
+Specify the license under which your project is distributed.
+
+```
+MIT License
+```
+
+Feel free to customize this template according to the specific needs of your project. Make sure to include relevant sections such as project description, installation instructions, usage examples, contributing guidelines, and license information.
